@@ -19,6 +19,8 @@
     - Cap. 06 (Vetor)
     - Cap. 07 (Matriz)
     - Cap. 08 (Sub-rotina)
+ 
+#### Entrega: Dia 06/10
 
 ## N2
 - 01 - Sistema de Login (OBRIGATÓRIO)
@@ -30,3 +32,5 @@ Caso sua equipe goste de desafios tenho alguns projetos interessantes para serem
 - Chatbot em Java
 - Aplicativo de Clima em Java usado API
 - Urna Eletrônica.
+
+#### Entrega: Dia 19/12
