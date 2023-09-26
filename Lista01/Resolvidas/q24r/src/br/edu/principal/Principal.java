@@ -9,7 +9,7 @@ public class Principal {
 		double hora = sc.nextDouble();
 		int h = (int)hora;
 		double m = hora - h;
-		double conversao = (h * 60) - (m * 100);
+		double conversao = (h * 60) + (m * 100);
 		
 		System.out.println(conversao+" minutos");
 		
