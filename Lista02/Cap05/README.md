@@ -24,19 +24,19 @@ b) qual é a média de veículos nas cinco cidades juntas;
 c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
 05 | Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor
 da série a seguir: 
-# (Segue imagem.)
+(Segue imagem.)
 06 | Uma empresa possui dez funcionários com as seguintes características: código, número de horas traba-
 lhadas no mês, turno de trabalho (M — matutino; V — vespertino; ou N — noturno), categoria (O — operário; ou G — gerente), valor da hora trabalhada. Sabendo-se que essa empresa deseja informatizar sua folha de pagamento, faça um programa que:
 a) Leia as informações dos funcionários, exceto o valor da hora trabalhada, não permitindo que sejam informa-
 dos turnos e nem categorias inexistentes. Trabalhe sempre com a digitação de letras maiúsculas.
 b) Calcule o valor da hora trabalhada, conforme a tabela a seguir. Adote o valor de R$ 450,00 para o salário
 mínimo.
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 c) Calcule o salário inicial dos funcionários com base no valor da hora trabalhada e no número de horas traba-
 lhadas.
 d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acordo com seu salário inicial, conforme
 a tabela a seguir.
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 e) Mostre o código, número de horas trabalhadas, valor da hora trabalhada, salário inicial, auxílio alimentação
 e salário final (salário inicial + auxílio alimentação).
 07 | Faça um programa que monte os oito primeiros termos da sequência de Fibonacci. (0-1-1-2-3-5-8-13-21-34-55...)
@@ -45,7 +45,7 @@ a seguir: Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 09 | Faça um programa que receba duas notas de seis alunos. Calcule e mostre:
 ■ a média aritmética das duas notas de cada aluno; e
 ■ a mensagem que está na tabela a seguir:
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 ■ o total de alunos aprovados;
 ■ o total de alunos de exame;
 ■ o total de alunos reprovados;
@@ -79,16 +79,16 @@ O programa deve calcular e mostrar:
 ■ a percentagem de crianças do sexo masculino mortas no período;
 ■ a percentagem de crianças que viveram 24 meses ou menos no período.
 14 | Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela. Os juros e a quantidade de parcelas seguem a tabela:
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 Exemplo de saída do programa:
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 15 | Faça um programa que receba o preço unitário, a refrigeração (S para os produtos que necessitem de refrigeração e N para os que não necessitem) e a categoria (A — alimentação; L — limpeza; e V — vestuário) de doze produtos, e que calcule e mostre:
 ■ O custo de estocagem, calculado de acordo com a tabela a seguir.
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 ■ O imposto calculado de acordo com as regras a seguir: Se o produto não preencher nenhum dos requisitos a seguir, seu imposto será de 2% sobre o preço unitário; caso contrário, será de 4%. Os requisitos são: categoria — A e refrigeração — S.
 ■ O preço final, ou seja, preço unitário mais custo de estocagem mais imposto.
 ■ A classificação calculada usando a tabela a seguir.
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 ■ A média dos valores adicionais, ou seja, a média dos custos de estocagem e dos impostos dos doze produtos.
 ■ O maior preço final.
 ■ O menor preço final.
@@ -124,7 +124,7 @@ Finalize a entrada de dados com a digitação do número 30.000.
 ■ o valor de cada quilowatt, sabendo que o quilowatt custa um oitavo do salário mínimo;
 ■ o valor a ser pago por consumidor (conta final mais acréscimo). O acréscimo encontra-se na tabela
 a seguir:
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 ■ o faturamento geral da empresa;
 ■ a quantidade de consumidores que pagam entre R$ 500,00 e R$ 1.000,00.
 Termine a entrada de dados com quantidade de quilowats igual a zero.
@@ -137,15 +137,15 @@ Menu de opções:
 Digite a opção desejada.
 Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto usando as regras
 a seguir.
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo salário usando as
 regras a seguir.
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 Na opção 3: receber o salário de um funcionário e mostrar sua classificação usando esta tabela:
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 25 | Faça um programa que receba os dados a seguir de vários produtos: preço unitário, país de origem (1 – Estados Unidos; 2 — México; e 3 — outros), meio de transporte (T — terrestre; F — fluvial; e A — aéreo), carga perigosa (S — sim; N — não), finalize a entrada de dados com um preço inválido, ou seja, menor ou igual a zero. O programa deve calcular e mostrar os itens a seguir.
 ■ O valor do imposto, usando a tabela a seguir.
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 ■ O valor do seguro, usando a regra a seguir.
 Os produtos que vêm do México e os produtos que utilizam transporte aéreo pagam metade do valor
 do seu preço unitário como seguro.
@@ -186,7 +186,7 @@ Menu de opções:
 4. Sair
 Digite a opção desejada.
 Na opção 1: receber o salário de um funcionário, calcular e mostrar o novo salário usando as regras a seguir:
-# (Segue imagem de tabelas.)
+(Segue imagem de tabelas.)
 Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor de suas férias. Sabe-se que as férias equivalem a seu salário acrescido de um terço do salário.
 Na opção 3: receber o salário de um funcionário e o número de meses de trabalho na empresa, no máximo doze, calcular e mostrar o valor do décimo terceiro. Sabe-se que o décimo terceiro equivale a seu salário multiplicado pelo número de meses de trabalho dividido por 12.
 Na opção 4: sair do programa.
