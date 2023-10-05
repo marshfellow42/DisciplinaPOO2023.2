@@ -76,7 +76,7 @@ c) o volume de uma esfera; sabe-se que V = 3⁄4 * p R3
 18 | Faça um programa que receba uma temperatura em Celsius, calcule e mostre essa temperatura em Fahrenheit. Sabe-se que F = 180*(C + 32)/100.
 19 | Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para cada m2, deve-se usar 18 W de potência. Faça um programa que receba as duas dimensões de um cômodo (em metros), calcule e mostre a sua área (em m2) e a potência de iluminação que deverá ser utilizada.
 20 | Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e a distância em que a escada está da parede, calcule e mostre a medida da escada para que se possa alcançar sua ponta.
-# (Segue imagens de tabelas.)
+(Segue imagens de tabelas.)
 21 | Faça um programa que receba o número de horas trabalhadas, o valor do salário mínimo e o número de horas extras trabalhadas, calcule e mostre o salário a receber, de acordo com as regras a seguir:
 a) a hora trabalhada vale 1/8 do salário mínimo;
 b) a hora extra vale 1/4 do salário mínimo;
