@@ -1,36 +1,15 @@
 # Trabalhos da Disciplina de POO
 ## Equipe
-1. [Leandro Cândido](https://github.com/marshfellow42)
-2. [Erick Carneiro](https://github.com/asperaven)
 
-## N1
-### Lista de Exércicios
-- Lista 01: TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente).
+<img src="https://github.com/marshfellow42/marshfellow42/blob/81a29cf92ee18ff006c2b714f206df7184638081/Assets/School%20Projects/DisciplinaPOO/README/IMG_20221204_224511928~2.jpg" width="50%" > | <img src="https://github.com/marshfellow42/marshfellow42/blob/81a29cf92ee18ff006c2b714f206df7184638081/Assets/School%20Projects/DisciplinaPOO/README/102703036.jpeg" width="940px">
+:-------: | :-------:
+[Leandro Cândido](https://github.com/marshfellow42) | [Erick Carneiro](https://github.com/asperaven)
 
-    - Cap. 03 (Estrutura Sequencial)
+## Turma
+P3 - Informática
 
-- Lista 02: TODOS os Exercícios Resolvidos  e 10 (5-5) Exercícios Propostos (sorteados aleatoriamente).
+## Professor
+Roger Moura Sarmento
 
-    - Cap. 04 (Estrutura Condicional) 
-    - Cap. 05 (Estrutura de Repetição)
-
-- Lista 03: 15 (5-5-5) Exercícios Resolvidos (sorteados aleatoriamente).
-
-    - Cap. 06 (Vetor)
-    - Cap. 07 (Matriz)
-    - Cap. 08 (Sub-rotina)
- 
-#### Entrega: Dia 06/10
-
-## N2
-- 01 - Sistema de Login (OBRIGATÓRIO)
-- 02 - Jogo de LIVRE ESCOLHA (Exs.: velha, adivinhação, snack, memória)
-- 03 - App de LIVRE ESCOLHA (Exs.: calculadora básica, calculadora científica, calculadora de IMC, conversor de moedas, conversor de temperatura).
-
-Caso sua equipe goste de desafios tenho alguns projetos interessantes para serem implementados:
-
-- Chatbot em Java
-- Aplicativo de Clima em Java usado API
-- Urna Eletrônica.
-
-#### Entrega: Dia 19/12
+## Material
+[Fundamentos da Programação da Computação](https://drive.google.com/file/d/1jRFhZVyMx9xMwMdfXKiS9EhD10sJ2hw4/view)
